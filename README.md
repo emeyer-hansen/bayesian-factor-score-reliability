@@ -3,6 +3,8 @@
 [_metadata_:tags]:- "markdown metadata"
 # Bayesian Factor Score Reliability: Conceptualizing a Bayesian Measure of Factor Score Indeterminacy
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24552942.svg)](https://doi.org/10.5281/zenodo.24552942)
+
 *Emil Niclas Meyer-Hansen*
 
 2026-11-26
