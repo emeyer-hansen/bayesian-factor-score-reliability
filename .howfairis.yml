@@ -1,0 +1,2 @@
+skip_registry_checks_reason: "Replication code for a single study; not distributed as a package. Archived on Zenodo."
+skip_checklist_checks_reason: "Research replication code rather than maintained software."
