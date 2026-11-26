@@ -1,0 +1,46 @@
+cff-version: 2026-11-26-08
+message: "If you use this software, please cite it as below."
+type: software
+title: "Supplementary materials for 'Bayesian Factor Score Reliability: Conceptualizing a Bayesian Measure of Factor Score Indeterminacy'"
+abstract: >-
+  These files contain the main paper and its supplementary, including data, plots, and scripts for reproducing all processing, analyses, and results, a BFSR function, and details on mathematical derivations and software specifications
+authors:
+  - family-names: "Meyer-Hansen"
+    given-names: "Emil Niclas"
+    orcid: "https://orcid.org/0009-0001-8722-0190"
+    affiliation: "Department of Political Science, Aarhus University, Aarhus, Denmark"
+    email: "emil098meyerhansen@gmail.com"
+version: "2026-11-26-08"
+date-released: "2026-11-26"
+license: GPL-3.0-or-later             # or GPL-3.0-only, matching your notice
+repository-code: "https://github.com/emeyer-hansen/bayesian-factor-score-reliability"
+keywords:
+  - "Factor score reliability"
+  - "Factor score (in)determinacy"
+  - "Factor scores"
+  - "Factor analysis"
+  - "Structural equation modeling"
+  - "Covariance structure analysis"
+  - "Multivariate analysis"
+  - "Incomplete data analysis"
+  - "Bayesian inference"
+  - "Frequentist inference"
+  - "Honesty-humility"
+  - "IPIP-HEXACO"
+  - "Supplementary materials"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24552942"
+    description: "Version DOI for v2026-11-26-08"
+preferred-citation:
+  type: article
+  title: "Bayesian Factor Score Reliability: Conceptualizing a Bayesian Measure of Factor Score Indeterminacy"
+  authors:
+    - family-names: "Meyer-Hansen"
+      given-names: "Emil Niclas"
+      orcid: "https://orcid.org/0009-0001-8722-0190"
+  journal: "Zenodo"
+  year: 2026
+  start: 1
+  end: 34
+  doi: "10.5281/zenodo.24552942"
