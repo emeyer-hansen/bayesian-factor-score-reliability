@@ -35,7 +35,7 @@ The indeterminacy of scores is a fundamental problem in factor analysis. Since a
 ## FAQ
 - Where can I download the latest version of the paper? The newest version of the paper is always provided as the file named 'Article.pdf'.
 - How can I reproduce the findings of this paper? The findings of the research paper can be reproduced in R using the files provided in the 'Archive'-folder. Identify the version of the paper that you want to replicate, download the files, specify your working directory and begin executing the code provided in the 'analysis.R'-file. Due to Github-limitations on file size, there are restrictions on what data and plots can be provided here.
-- Can I download these materials elsewhere? No, all materials are currently only provided here on Github.
+- Can I download these materials elsewhere? Yes, all materials are also provided on Zenodo (DOI: [10.5281/zenodo.24552942](https://doi.org/10.5281/zenodo.24552942)).
 
 
 <a id="changelog"></a>
@@ -57,7 +57,7 @@ Building on Bayesian inference and similar conceptualizations made for other sci
 
 Please, if you use, refer to, modify, and/or continue the development of this BFSR index, provide proper reference and citation to its founding author. An example of proper citation is provided below:
 ```
-Meyer-Hansen, E. N. (2026): 'Bayesian Factor Score Reliability: Conceptualizing a Bayesian Measure of Factor Score Indeterminacy', Github, Working paper (v2026-11-26-08).
+Meyer-Hansen, E. N. (2026): 'Bayesian Factor Score Reliability: Conceptualizing a Bayesian Measure of Factor Score Indeterminacy', Zenodo, Working paper (v2026-11-26-08). DOI: 10.5281/zenodo.24552942
 ```
 
 For LaTeX users, a BibTeX entry is provided below:
@@ -65,9 +65,9 @@ For LaTeX users, a BibTeX entry is provided below:
 @unpublished{,
   title = {Bayesian Factor Score Reliability: Conceptualizing a Bayesian Measure of Factor Score Indeterminacy},
   author = {Emil Niclas Meyer-Hansen},
-  publisher = {Github},
+  publisher = {Zenodo},
   year = {2026},
-  doi = {},
+  doi = {10.5281/zenodo.24552942},
   pubstate = {Working Paper (v2026-11-26-08)}
 }
 ```
@@ -75,5 +75,5 @@ For LaTeX users, a BibTeX entry is provided below:
 
 <a id="references"></a>
 ## References
-- Open-Source Psychometrics Project. (2014). Answers to the IPIP HEXACO equivalent scales [Dataset]. (Accessed 2026/10/11)
-- Petras, N., Dantlgraber, M., & Reips, U.-D. (2024). Illustrating psychometric tests, scales, and constructs: An R package for item pool visualization. Behavior Research Methods, 56(2), 639-650. doi: 10.3758/s13428-022-02052-7
+- Open-Source Psychometrics Project (2014). *Answers to the IPIP HEXACO equivalent scales [Dataset]*. (Accessed 2026/10/11)
+- Petras, Nils, Michael Dantlgraber, & Ulf-Dietrich Reips (2024): 'Illustrating psychometric tests, scales, and constructs: An R package for item pool visualization', *Behavior Research Methods*, 56(2): 639-650. DOI: [10.3758/s13428-022-02052-7](https://doi.org/10.3758/s13428-022-02052-7)
