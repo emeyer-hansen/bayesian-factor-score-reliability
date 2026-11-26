@@ -3,7 +3,7 @@
 [_metadata_:tags]:- "markdown metadata"
 # Bayesian Factor Score Reliability: Conceptualizing a Bayesian Measure of Factor Score Indeterminacy
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24552942.svg)](https://doi.org/10.5281/zenodo.24552942)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24554725.svg)](https://doi.org/10.5281/zenodo.24554725)
 [![Release](https://img.shields.io/github/v/release/emeyer-hansen/bayesian-factor-score-reliability)](https://github.com/emeyer-hansen/bayesian-factor-score-reliability/releases/latest)
 [![License](https://img.shields.io/github/license/emeyer-hansen/bayesian-factor-score-reliability)](LICENSE)
 [![fair-software.eu](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F-green)](https://fair-software.eu)
@@ -36,11 +36,13 @@ The indeterminacy of scores is a fundamental problem in factor analysis. Since a
 ## FAQ
 - Where can I download the latest version of the paper? The newest version of the paper is always provided as the file named 'Article.pdf' on the [Github-project page dedicated to this paper](https://github.com/emeyer-hansen/bayesian-factor-score-reliability).
 - How can I reproduce the findings of this paper? The findings of the research paper can be reproduced in R using the files provided in the 'Archive'-folder. Identify the version of the paper that you want to replicate, download the files, specify your working directory and begin executing the code provided in the 'analysis.R'-file. Due to Github-limitations on file size, there are restrictions on what data and plots can be provided here.
-- Can I download these materials elsewhere? Yes, all materials are also provided on Zenodo (DOI: [10.5281/zenodo.24552942](https://doi.org/10.5281/zenodo.24552942)).
+- Can I download these materials elsewhere? Yes, all materials are also provided on Zenodo (DOI: [10.5281/zenodo.24554725](https://doi.org/10.5281/zenodo.24554725)).
 
 
 <a id="changelog"></a>
 ## Changelog
+- **2026-11-26-08 10:15 CEST**
+    - [Version 2026-11-26-08-hotfix] - Working Paper (Fixes for the initial release).
 - **2026-11-26-08 8:12 CEST**
     - [Version 2026-11-26-08] - Working Paper (Initial Release).
 
@@ -58,7 +60,7 @@ Building on Bayesian inference and similar conceptualizations made for other sci
 
 Please, if you use, refer to, modify, and/or continue the development of this BFSR index, provide proper reference and citation to its founding author. An example of proper citation is provided below:
 ```
-Meyer-Hansen, E. N. (2026): 'Bayesian Factor Score Reliability: Conceptualizing a Bayesian Measure of Factor Score Indeterminacy', Zenodo, Working paper (v2026-11-26-08). DOI: 10.5281/zenodo.24552942
+Meyer-Hansen, E. N. (2026): 'Bayesian Factor Score Reliability: Conceptualizing a Bayesian Measure of Factor Score Indeterminacy', Zenodo, Working paper (v2026-11-26-08). DOI: 10.5281/zenodo.24554725
 ```
 
 For LaTeX users, a BibTeX entry is provided below:
@@ -68,7 +70,7 @@ For LaTeX users, a BibTeX entry is provided below:
   author = {Emil Niclas Meyer-Hansen},
   publisher = {Zenodo},
   year = {2026},
-  doi = {10.5281/zenodo.24552942},
+  doi = {10.5281/zenodo.24554725},
   pubstate = {Working Paper (v2026-11-26-08)}
 }
 ```
