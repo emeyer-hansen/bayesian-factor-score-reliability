@@ -6,6 +6,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24552942.svg)](https://doi.org/10.5281/zenodo.24552942)
 [![Release](https://img.shields.io/github/v/release/emeyer-hansen/bayesian-factor-score-reliability)](https://github.com/emeyer-hansen/bayesian-factor-score-reliability/releases/latest)
 [![License](https://img.shields.io/github/license/emeyer-hansen/bayesian-factor-score-reliability)](LICENSE)
+[![fair-software.eu](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F-green)](https://fair-software.eu)
 
 *Emil Niclas Meyer-Hansen*
 
