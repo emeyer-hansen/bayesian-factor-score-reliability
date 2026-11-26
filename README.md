@@ -34,7 +34,7 @@ The indeterminacy of scores is a fundamental problem in factor analysis. Since a
 
 <a id="faq"></a>
 ## FAQ
-- Where can I download the latest version of the paper? The newest version of the paper is always provided as the file named 'Article.pdf'.
+- Where can I download the latest version of the paper? The newest version of the paper is always provided as the file named 'Article.pdf' on the [Github-project page dedicated to this paper](https://github.com/emeyer-hansen/bayesian-factor-score-reliability).
 - How can I reproduce the findings of this paper? The findings of the research paper can be reproduced in R using the files provided in the 'Archive'-folder. Identify the version of the paper that you want to replicate, download the files, specify your working directory and begin executing the code provided in the 'analysis.R'-file. Due to Github-limitations on file size, there are restrictions on what data and plots can be provided here.
 - Can I download these materials elsewhere? Yes, all materials are also provided on Zenodo (DOI: [10.5281/zenodo.24552942](https://doi.org/10.5281/zenodo.24552942)).
 
