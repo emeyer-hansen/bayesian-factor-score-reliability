@@ -4,6 +4,7 @@
 # Bayesian Factor Score Reliability: Conceptualizing a Bayesian Measure of Factor Score Indeterminacy
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24552942.svg)](https://doi.org/10.5281/zenodo.24552942)
+[![Release](https://img.shields.io/github/v/release/emeyer-hansen/bayesian-factor-score-reliability)](https://github.com/emeyer-hansen/bayesian-factor-score-reliability/releases/latest)
 
 *Emil Niclas Meyer-Hansen*
 
